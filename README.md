@@ -1,4 +1,4 @@
-# Uniqup
+![UNIQUP](https://github.com/shamo0/uniqup/assets/48299520/d491ce4a-fc27-4075-aee8-8e3d1b1cc646)
 
 A Python script that takes in a file of URLs, modifies their parameters, and writes unique modified URLs to an output file.
 
